@@ -1,0 +1,62 @@
+body {
+    background-color: white;
+  }
+  
+  h1 {
+    background-color: rgb(195, 8, 8);
+    color: white;
+    text-indent: 25px;
+    padding: 10px 10px 10px 10px;
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  h2 {
+    padding: 10px 10px 10px 10px;
+    font-weight: bold;
+    text-indent: 30px;
+    font-size: 20px;
+  }
+
+  h4 {
+    background-color: rgb(195, 8, 8);
+    color: rgb(255, 255, 255);
+    padding: 12px 10px 10px 10px;
+    float: right;
+    text-align: center;
+  }
+
+  h5 {
+    background-color: darkslategray;
+    color: white;
+    padding: 12px 12px 10px 12px;
+    width: 100%;
+    text-align: right;
+  }
+
+  h6 {
+    background-color: darkslategray;
+    color: white;
+    padding: 12px 12px 12px 12px;    
+    word-break: break-word;
+    width: 100%;
+  }
+
+  a {
+    color: white;
+    text-decoration: underline;
+    padding-right: 10px;
+  }
+
+  img {
+    height: 600px;
+    width: auto;
+    padding-left: 25px;
+  }
+
+  p {
+    width: 1140px;
+    word-break: break-word;
+    padding-left: 40px;
+  }
